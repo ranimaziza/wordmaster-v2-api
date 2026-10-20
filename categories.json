@@ -1,0 +1,34 @@
+[
+  {
+    "id": "travel",
+    "name": "Travel"
+  },
+  {
+    "id": "food",
+    "name": "Food"
+  },
+  {
+    "id": "education",
+    "name": "Education"
+  },
+  {
+    "id": "work",
+    "name": "Work"
+  },
+  {
+    "id": "technology",
+    "name": "Technology"
+  },
+  {
+    "id": "family",
+    "name": "Family"
+  },
+  {
+    "id": "daily-life",
+    "name": "Daily Life"
+  },
+  {
+    "id": "sports",
+    "name": "Sports"
+  }
+]
