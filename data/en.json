@@ -9,7 +9,7 @@
     "category": "Travel",
     "language": "en",
     "reading": "/ˈeə.pɔːt/",
-    "imageUrl": "https://loremflickr.com/320/240/airport?lock=2001",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/airport.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_001.mp3"
   },
   {
@@ -22,7 +22,7 @@
     "category": "Travel",
     "language": "en",
     "reading": "/ˈtɪk.ɪt/",
-    "imageUrl": "https://loremflickr.com/320/240/train-ticket?lock=2002",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/ticket.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_002.mp3"
   },
   {
@@ -35,7 +35,7 @@
     "category": "Travel",
     "language": "en",
     "reading": "/həʊˈtel/",
-    "imageUrl": "https://loremflickr.com/320/240/hotel?lock=2003",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/hotel.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_003.mp3"
   },
   {
@@ -48,7 +48,7 @@
     "category": "Travel",
     "language": "en",
     "reading": "/mæp/",
-    "imageUrl": "https://loremflickr.com/320/240/map?lock=2004",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/map.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_004.mp3"
   },
   {
@@ -61,7 +61,7 @@
     "category": "Food",
     "language": "en",
     "reading": "/ˈæp.əl/",
-    "imageUrl": "https://loremflickr.com/320/240/apple-fruit?lock=2005",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/apple.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_005.mp3"
   },
   {
@@ -74,7 +74,7 @@
     "category": "Food",
     "language": "en",
     "reading": "/bred/",
-    "imageUrl": "https://loremflickr.com/320/240/bread?lock=2006",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/bread.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_006.mp3"
   },
   {
@@ -87,7 +87,7 @@
     "category": "Food",
     "language": "en",
     "reading": "/ˈwɔː.tər/",
-    "imageUrl": "https://loremflickr.com/320/240/glass-water?lock=2007",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/water.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_007.mp3"
   },
   {
@@ -100,7 +100,7 @@
     "category": "Food",
     "language": "en",
     "reading": "/ˈbrek.fəst/",
-    "imageUrl": "https://loremflickr.com/320/240/breakfast?lock=2008",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/breakfast.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_008.mp3"
   },
   {
@@ -113,7 +113,7 @@
     "category": "Education",
     "language": "en",
     "reading": "/ˈtiː.tʃər/",
-    "imageUrl": "https://loremflickr.com/320/240/teacher-classroom?lock=2009",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/teacher.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_009.mp3"
   },
   {
@@ -126,7 +126,7 @@
     "category": "Education",
     "language": "en",
     "reading": "/ˈles.ən/",
-    "imageUrl": "https://loremflickr.com/320/240/classroom-lesson?lock=2010",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/lesson.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_010.mp3"
   },
   {
@@ -139,7 +139,7 @@
     "category": "Education",
     "language": "en",
     "reading": "/bʊk/",
-    "imageUrl": "https://loremflickr.com/320/240/book?lock=2011",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/livre.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_011.mp3"
   },
   {
@@ -152,7 +152,7 @@
     "category": "Education",
     "language": "en",
     "reading": "/ɪɡˈzæm/",
-    "imageUrl": "https://loremflickr.com/320/240/student-exam?lock=2012",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/examen.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_012.mp3"
   },
   {
@@ -165,7 +165,7 @@
     "category": "Work",
     "language": "en",
     "reading": "/ˈmiː.tɪŋ/",
-    "imageUrl": "https://loremflickr.com/320/240/business-meeting?lock=2013",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/meeting.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_013.mp3"
   },
   {
@@ -178,7 +178,7 @@
     "category": "Work",
     "language": "en",
     "reading": "/ˈkɒl.iːɡ/",
-    "imageUrl": "https://loremflickr.com/320/240/coworkers-office?lock=2014",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/colleague.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_014.mp3"
   },
   {
@@ -191,7 +191,7 @@
     "category": "Work",
     "language": "en",
     "reading": "/ˈɒf.ɪs/",
-    "imageUrl": "https://loremflickr.com/320/240/office?lock=2015",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/bureau.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_015.mp3"
   },
   {
@@ -204,7 +204,7 @@
     "category": "Work",
     "language": "en",
     "reading": "/ˈsæl.ər.i/",
-    "imageUrl": "https://loremflickr.com/320/240/salary-paycheck?lock=2016",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/salaire.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_016.mp3"
   },
   {
@@ -217,7 +217,7 @@
     "category": "Technology",
     "language": "en",
     "reading": "/ˈkiː.bɔːd/",
-    "imageUrl": "https://loremflickr.com/320/240/computer-keyboard?lock=2017",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/keyboard.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_017.mp3"
   },
   {
@@ -230,7 +230,7 @@
     "category": "Technology",
     "language": "en",
     "reading": "/skriːn/",
-    "imageUrl": "https://loremflickr.com/320/240/computer-screen?lock=2018",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/écran.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_018.mp3"
   },
   {
@@ -243,7 +243,7 @@
     "category": "Technology",
     "language": "en",
     "reading": "/ˈsɒft.weər/",
-    "imageUrl": "https://loremflickr.com/320/240/software-computer?lock=2019",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/logiciel.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_019.mp3"
   },
   {
@@ -256,7 +256,7 @@
     "category": "Technology",
     "language": "en",
     "reading": "/ˈpɑːs.wɜːd/",
-    "imageUrl": "https://loremflickr.com/320/240/password-computer?lock=2020",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/password.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_020.mp3"
   },
   {
@@ -269,7 +269,7 @@
     "category": "Family",
     "language": "en",
     "reading": "/ˈmʌð.ər/",
-    "imageUrl": "https://loremflickr.com/320/240/mother-family?lock=2021",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/mother.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_021.mp3"
   },
   {
@@ -282,7 +282,7 @@
     "category": "Family",
     "language": "en",
     "reading": "/ˈbrʌð.ər/",
-    "imageUrl": "https://loremflickr.com/320/240/brothers-family?lock=2022",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/brother.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_022.mp3"
   },
   {
@@ -295,7 +295,7 @@
     "category": "Family",
     "language": "en",
     "reading": "/ˈkʌz.ən/",
-    "imageUrl": "https://loremflickr.com/320/240/cousins-family?lock=2023",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/cousin.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_023.mp3"
   },
   {
@@ -308,7 +308,7 @@
     "category": "Daily Life",
     "language": "en",
     "reading": "/ˈmɔː.nɪŋ/",
-    "imageUrl": "https://loremflickr.com/320/240/sunrise-morning?lock=2024",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/breakfast.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_024.mp3"
   },
   {
@@ -321,7 +321,7 @@
     "category": "Daily Life",
     "language": "en",
     "reading": "/ˈʃaʊ.ər/",
-    "imageUrl": "https://loremflickr.com/320/240/shower-bathroom?lock=2025",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/douche.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_025.mp3"
   },
   {
@@ -334,7 +334,7 @@
     "category": "Daily Life",
     "language": "en",
     "reading": "/ˈiːv.nɪŋ/",
-    "imageUrl": "https://loremflickr.com/320/240/evening-sunset?lock=2026",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/soir.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_026.mp3"
   },
   {
@@ -347,7 +347,7 @@
     "category": "Sports",
     "language": "en",
     "reading": "/tiːm/",
-    "imageUrl": "https://loremflickr.com/320/240/sports-team?lock=2027",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/team.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_027.mp3"
   },
   {
@@ -360,7 +360,7 @@
     "category": "Sports",
     "language": "en",
     "reading": "/ˈpleɪ.ər/",
-    "imageUrl": "https://loremflickr.com/320/240/soccer-player?lock=2028",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/player.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_028.mp3"
   },
   {
@@ -373,7 +373,7 @@
     "category": "Sports",
     "language": "en",
     "reading": "/ˈswɪm.ɪŋ/",
-    "imageUrl": "https://loremflickr.com/320/240/swimming-pool?lock=2029",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/swimming.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_029.mp3"
   },
   {
@@ -386,7 +386,7 @@
     "category": "Sports",
     "language": "en",
     "reading": "/mætʃ/",
-    "imageUrl": "https://loremflickr.com/320/240/soccer-match?lock=2030",
+    "imageUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/data/images/en/match.png",
     "audioUrl": "https://raw.githubusercontent.com/ranimaziza/wordmaster-v2-api/main/audio/en/en_030.mp3"
   }
 ]
